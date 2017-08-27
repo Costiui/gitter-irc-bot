@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/finnp/gitter-irc-bot"
+    "url": "https://github.com/obensource/gitter-irc-bot"
   },
   "keywords": [
     "gitter",
     "irc"
   ],
   "bugs": {
-    "url": "https://github.com/finnp/gitter-irc-bot/issues"
+    "url": "https://github.com/obensource/gitter-irc-bot/issues"
   },
-  "homepage": "https://github.com/finnp/gitter-irc-bot"
+  "homepage": "https://github.com/obensource/gitter-irc-bot"
 }

@@ -1,7 +1,7 @@
 {
   "name": "gitter-irc-bot",
   "description": "A bot for synchronising messages from gitter and irc",
-  "repository": "https://github.com/finnp/gitter-irc-bot",
+  "repository": "https://github.com/obensource/gitter-irc-bot",
   "keywords": [
     "gitter",
     "irc",
